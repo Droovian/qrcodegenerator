@@ -11,7 +11,7 @@ const port = 3000;
 app.use(bodyParser.urlencoded({ extended: true }));
 
 app.get("/", (req, res) => {
-    res.sendFile(__dirname + "/home.html");
+    res.sendFile(__dirname + "/home/home.html");
 });
 
 app.post("/submit", async (req, res) => {
