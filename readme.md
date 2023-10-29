@@ -1,6 +1,6 @@
 # QR Code Generator with Express
 
-This is a simple web application built using Express and the `qrcode` NPM package that allows users to convert a user-entered URL into a QR code. This project is a great introduction to using Express for web development and generating QR codes dynamically.
+This is a simple web application built using Express and the `qrcode` NPM package that allows users to convert a user-entered URL into a QR code. This project is a great introduction to using Express for web development and generating QR codes dynamically...
 
 ## Features
 
